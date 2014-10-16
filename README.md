@@ -17,6 +17,10 @@ More information at: http://www.alchemyapi.com
 
 To use AlchemyAPI, you'll need to obtain an API key and attach that key to all requests. If you do not already have a key, please visit: http://www.alchemyapi.com/api/register.html
 
+## Requests Module ##
+
+To install the AlchemyAPI, you must install the Python Requests module:
+http://docs.python-requests.org/en/latest/user/install/
 
 
 ## Getting Started with the Python SDK ##
